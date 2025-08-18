@@ -266,3 +266,9 @@ nav h1 {
   color: rgb(152, 152, 152);
   line-height: 20px;
 }
+.page4{
+  height: 100vh;
+  width: 100%;
+  background-color: #111111;
+  
+}
